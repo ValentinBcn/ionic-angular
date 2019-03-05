@@ -1,0 +1,6 @@
+{
+  "appId": "val.udemy.angular",
+  "appName": "udemy-course",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
